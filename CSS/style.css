@@ -1,0 +1,115 @@
+@import url("https://fonts.googleapis.com/css2?family=Open+Sans&display=swap");
+h1 {
+  font-family: "Open Sans", sans-serif;
+  font-size: 32px;
+  font-weight: bold;
+  color: #ffffff;
+  margin-left: 30px;
+  margin-top: -10px;
+}
+.slogan {
+  font-family: "Open Sans", sans-serif;
+  font-size: 15px;
+  color: #ffffff;
+  filter: opacity(60%);
+  margin-left: 30px;
+  margin-top: -20px;
+}
+body {
+  background-color: #0f1511;
+}
+.container {
+  width: 320px;
+  height: 568px;
+  margin: 100px auto;
+  border-width: 1px;
+  border-style: solid;
+  border-color: #e7fe55;
+  border-radius: 10px;
+  overflow: hidden;
+}
+img {
+  margin-top: 45px;
+  margin-left: 30px;
+}
+.Elipses {
+  margin-left: 85px;
+  margin-top: -200px;
+  filter: blur(15px) opacity(60%);
+}
+.box-form {
+  margin: 0px 16px;
+}
+.box-item {
+  display: flex;
+  flex-direction: column;
+  margin: 25px auto;
+}
+.form-label {
+  font-family: "Open Sans", sans-serif;
+  font-size: 15px;
+  color: #ffffff;
+  margin-left: 10px;
+}
+.form-control {
+  border-width: 1px;
+  border-color: #e7fe55;
+  border-radius: 10px;
+  height: 45px;
+  background-color: rgba(0, 0, 0, 0);
+  color: #ffffff;
+  padding-left: 45px;
+}
+.box-btn {
+  display: inline-block;
+  margin-top: -8px;
+}
+.form-btn1 {
+  border: 1px solid;
+  padding: 8px 10px;
+  vertical-align: middle;
+  background: rgba(0, 0, 0, 0);
+  border-radius: 10px;
+  font-size: 25px;
+  font-family: "Open Sans", sans-serif;
+  font-weight: lighter;
+  color: #e7fe55;
+}
+.form-btn2 {
+  border: 1px solid;
+  padding: 9px 25px;
+  vertical-align: middle;
+  background: #e7fe55;
+  border-radius: 10px;
+  font-size: 25px;
+  font-family: "Open Sans", sans-serif;
+  font-weight: lighter;
+  color: #0f1511;
+}
+.esqueceu-senha {
+  font-family: "Open Sans", sans-serif;
+  font-size: 15px;
+  color: #ffffff;
+  filter: opacity(60%);
+  text-align: center;
+}
+fieldset {
+  background: rgba(0, 0, 0, 0.38);
+  border: 0;
+  border-radius: 10px;
+}
+.material-symbols-outlined {
+  font-variation-settings: "FILL" 0, "wght" 300, "GRAD" 0, "opsz" 24;
+  color: #e7fe55;
+  margin-top: -37px;
+  margin-left: 10px;
+}
+.lock {
+  color: #e7fe55;
+  margin-top: -27px;
+}
+.eye {
+  color: #e7fe55;
+  margin-left: 212px;
+  margin-top: -17px;
+}
